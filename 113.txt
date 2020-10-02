@@ -1,0 +1,37 @@
+constructors:
+1. Default methode when a object of a class is called
+like when a car is created it will have default color , fuel
+
+2. constructors will have same name as class
+
+
+
+
+class student{
+
+	public student(){
+		int name = "Kiran";
+
+	}
+	
+	// overloaded constroctor
+	public student(Stirng name){
+	
+	}
+}
+
+
+class studentTest{
+	p.s.v.m(String[],args){
+	
+	student s = new student();
+	}
+}
+
+3. constructor will not have return type , dont even write void.
+
+4. constructor can be overloaded i.e with different parameter..
+
+
+
+

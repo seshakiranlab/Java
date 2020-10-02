@@ -1,0 +1,7 @@
+Types of properties; what i unsedstood is operations that can be performed on variables
+
+1. Read & write --> if that class have both getter() & setter()
+2. Read only --> only getter()
+3. write only --> only setter() 
+
+in that class 
